@@ -157,10 +157,3 @@ CORS_ALLOW_METHODS = [
     "POST",
     "PUT",
 ]
-
-
-CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3001',
-    'https://sadikislar2.pythonanywhere.com',
-    # erişime izin vermek istediğiniz origin adreslerini buraya ekleyin
-]
